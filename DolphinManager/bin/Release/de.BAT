@@ -1,0 +1,4 @@
+DEFRAG C: -f
+DEFRAG C: -f
+EXIT
+^Z

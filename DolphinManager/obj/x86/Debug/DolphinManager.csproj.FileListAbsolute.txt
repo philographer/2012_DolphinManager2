@@ -1,0 +1,60 @@
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\bin\Debug\DolphinManager.exe
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\bin\Debug\DolphinManager.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form1.resources
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form2.resources
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\HP\documents\visual studio 2010\Projects\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\bin\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\bin\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\bin\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\bin\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager\DolphinManager\obj\x86\Debug\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\bin\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\bin\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\11.10.11.25\DolphinManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\bin\Debug\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\bin\Debug\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.Form5.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Debug\DolphinManager.Form4.resources
+C:\Users\yoohoogun114\Desktop\소마제출용\DolphinManager\bin\Debug\DolphinManager.exe.config
+C:\Users\yoohoogun114\Desktop\소마제출용\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\소마제출용\DolphinManager\obj\x86\Debug\DolphinManager.pdb
+C:\Users\yoohoogun114\Desktop\내폴더\개인프로젝트\DolphinManager (2)\DolphinManager\bin\Debug\DolphinManager.exe.config
+C:\Users\yoohoogun114\Desktop\내폴더\개인프로젝트\DolphinManager (2)\DolphinManager\obj\x86\Debug\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\내폴더\개인프로젝트\DolphinManager (2)\DolphinManager\obj\x86\Debug\DolphinManager.pdb

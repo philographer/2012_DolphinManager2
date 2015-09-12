@@ -1,0 +1,83 @@
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\HP\Desktop\DolphinManager\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form5.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form4.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\bin\Release\DolphinManager.exe.config
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.Form6.resources
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\프로젝트\갠프\DolphinManager2\DolphinManager\obj\x86\Release\DolphinManager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\bin\Release\DolphinManager.exe.config
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form4.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form5.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Form6.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\프로젝트\갠프\준완성2\DolphinManager\obj\x86\Release\DolphinManager.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\bin\Release\DolphinManager.exe.config
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form3.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form4.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form5.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Form6.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\HP\Desktop\발표자료\완벽완성\DolphinManager\obj\x86\Release\DolphinManager.csproj.GenerateResource.Cache
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\hanna.ttf
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.exe.config
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form3.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form4.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form5.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form6.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.csproj.GenerateResource.Cache
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\yoohoogun114\Desktop\내폴더\백업2\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.csprojResolveAssemblyReference.cache
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\hanna.ttf
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.exe.config
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\DolphinManager.pdb
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.csprojResolveAssemblyReference.cache
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form1.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form2.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form3.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form4.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form5.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Form6.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.Properties.Resources.resources
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.csproj.GenerateResource.Cache
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.exe
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\obj\x86\Release\DolphinManager.pdb
+C:\Users\yoohoogun114\Desktop\내폴더\후킹실험\돌핀매니져 발표\완벽완성 (2)\DolphinManager\bin\Release\Gma.UserActivityMonitor.dll
